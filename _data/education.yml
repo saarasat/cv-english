@@ -4,20 +4,20 @@
   dates: 8/2018 - 
   qualification: Bachelor of Science | Computer Science
   description: | # this will include new lines to allow paragraphs
-    Bachelor's programme in Computer Science. The programme provides an extensive basis on 
-    computational theory and also includes a lot of more practical project work.
+    Bachelor's programme in Computer Science. The programme provides a comprehensive background on computational theory and concepts.
+    It also includes plenty of hands-on project work.
     The most notable courses attended include: 
 
-    - Introduction to Programming (5 op) and Advanced Course in Programming (5 op)
-    - Datastructures and Algorithms (10 op)
-    - Introduction to Data Communication (5 op)
-    - Introduction to Databases (5 op)
-    - Intermediate Studies Project: Database Application (4 op)
-    - Introduction to AI (5 op)
-    - Full Stack Web Development (5 op)
-    - Software Production and Version Control (7 op)
-    - Software Development Methods (5 op)
-    - Models of Computation (5 op)
+    - Introduction to Programming (5 ECTS) and Advanced Course in Programming (5 ECTS)
+    - Datastructures and Algorithms (10 ECTS)
+    - Introduction to Data Communication (5 ECTS)
+    - Introduction to Databases (5 ECTS)
+    - Intermediate Studies Project: Database Application (4 ECTS)
+    - Introduction to AI (5 ECTS)
+    - Full Stack Web Development (5 ECTS)
+    - Software Production and Version Control (7 ECTS)
+    - Software Development Methods (5 ECTS)
+    - Models of Computation (5 ECTS)
 
     Minor: Mathematics
 
@@ -26,12 +26,12 @@
 - layout: left
   name: University of Oulu
   dates: 8/2008 - 6/2013
-  qualification: Master of Business and Administration
+  qualification: Master of Science (Economics and Business Administration)
   quote: >
   description: | 
     Major: Marketing
 
-    Minors: Business law, accounting and a minor of studies abroad in Business and Administration (EM Strasbourg Business School, Ranska)
+    Minors: Business law, accounting and 25 ECTS of business studies abroad (EM Strasbourg Business School, France)
 
     <a class="a.link" target="_blank" href="http://jultika.oulu.fi/files/nbnfioulu-201302281063.pdf">
     Master's thesis: Effectiveness of Mobile In-Game Banner Advertising</a>
@@ -40,6 +40,6 @@
 - layout: left
   name: Oulun Lyseo Upper Secondary School 
   dates: 8/2005 - 5/2008
-  qualification: undergraduate
+  qualification: High school graduate
 
     

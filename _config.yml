@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Saara Satokangas
-title: Commercially-oriented nerd
+title: Business-oriented nerd
 email: saara.satokangas[a]helsinki.fi
 
 darkmode: false
@@ -16,11 +16,13 @@ linkedin_username: saarasatokangas
 # About Section
 about_profile_image: images/profiili2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Digital and content marketing specialist with
-  a high interest in all the good things that digital innovations can accomplish. 
+  Media and digital marketing specialist with
+  a high interest in all the good things that digital innovations can provide. 
 
-  Currently studying computer science at the University of Helsinki 
+  I am currently studying computer science at the University of Helsinki 
   and aiming to work in software development and research in the future. 
+
+  I am enthusiastic about learning new things. 
 
   I am at my best in that crucial middle ground where client needs and digital products meet. 
 

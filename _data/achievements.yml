@@ -9,7 +9,7 @@
   date: 2019, 2009
   description: | 
     I acted as a student tutor for freshmen at the 
-    University of Oulu in 2009 and at the University of Helsinki in 2019 
+    University of Oulu in 2009 and at the University of Helsinki in 2019.
   icon: <i class="fas fa-user-friends"></i>
 
 - layout: left
@@ -19,19 +19,19 @@
     link_text: www.mankelimatkalla.com
   date: 2019
   description: | 
-    During summer bicycle is the best mode of transport. Last summer I travelled with my dear Tunturi all the way through Finland. 
-    My blog on the subject can be found at <a href="https://mankelimatkalla.wordpress.com/" target="_blank" class="a.link">www.mankelimatkalla.wordpress.com</a>
+    During summer, bicycle is the best mode of transportation. Last summer I travelled with my dear Tunturi all the way through Finland. 
+    My blog of the travels can be found at: <a href="https://mankelimatkalla.wordpress.com/" target="_blank" class="a.link">www.mankelimatkalla.wordpress.com</a>
     
   icon: <i class="fas fa-bicycle"></i>
 
 - layout: left
-  achievement: Starting researcher
+  achievement: Beginner in research
   links:
   - link: https://link.springer.com/chapter/10.1007/978-3-642-37437-1_24
     link_text: www.springer.com
   date: 2013
   description: | 
-    I participated in writing a scientific article based on my Master's thesis. The subject of the article is advertising in mobile games: 
+    I participated in writing a scientific article while working on my master's thesis. The research was done regarding advertising in mobile games: 
         
     Conference on e-Business, e-Services and e-Society, I3E 2013: Collaborative, Trusted and Privacy-Aware e/m-Services pp 286-297:   
     <a href="https://link.springer.com/chapter/10.1007/978-3-642-37437-1_24" target="_blank" class="a.link">Rewarding In-Game Banner Ad Clicks with Tangible Incentives</a>
