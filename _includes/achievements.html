@@ -1,0 +1,27 @@
+<div class="container ">
+  <h3>{{ site.achievements_title | default: "Muuta minusta" }}</h3>
+  {% for achievement in site.data.achievements %}
+    <div class="row clearfix layout">
+      <div class="col-xs-12 col-sm-2 col-md-2 col-print-12 details">
+        <div class="icons-achievement">
+          {%- if achievement.icon -%}{{ achievement.icon }}{%- endif -%}
+        </div>        
+      </div>
+
+      <div class="col-xs-12 col-sm-3 col-md-3 col-print-12 details">
+        <h4>{{ achievement.achievement }}</h4>
+          {%- if achievement.links -%} 
+            {% for link in achievement.links %}
+              {% include a.html href=link.link class="link" %}{{ link.link_text }}</a>
+              <br>         
+            {% endfor %}
+          {%- endif -%}
+          {%- if achievement.date -%}<p>{{ achievement.date }}</p>{%- endif -%} 
+      </div>
+
+      <div class="col-xs-12 col-sm-7 col-md-7 col-print-12 ">
+        {%- if achievement.description -%}{{ achievement.description | strip | markdownify }}{%- endif -%}
+      </div>
+    </div>
+  {% endfor %}
+</div>

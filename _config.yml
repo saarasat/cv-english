@@ -1,0 +1,62 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Saara Satokangas
+title: Commercially-oriented nerd
+email: saara.satokangas[a]helsinki.fi
+
+darkmode: false
+
+# Social links
+github_username: saarasat
+linkedin_username: saarasatokangas
+
+# About Section
+about_profile_image: images/profiili2.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Digital and content marketing specialist with
+  a high interest in all the good things that digital innovations can accomplish. 
+
+  Currently studying computer science at the University of Helsinki 
+  and aiming to work in software development and research in the future. 
+
+  I am at my best in that crucial middle ground where client needs and digital products meet. 
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+education_title: Education
+
+# More Section
+techAndLang_title: Skills 
+
+# More Section
+achievements_title: A little bit more about me
+  
+# Footer
+footer_show_references: true
+
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

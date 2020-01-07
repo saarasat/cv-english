@@ -1,0 +1,45 @@
+# Education Template
+- layout: left
+  name: University of Helsinki
+  dates: 8/2018 - 
+  qualification: Bachelor of Science | Computer Science
+  description: | # this will include new lines to allow paragraphs
+    Bachelor's programme in Computer Science. The programme provides an extensive basis on 
+    computational theory and also includes a lot of more practical project work.
+    The most notable courses attended include: 
+
+    - Introduction to Programming (5 op) and Advanced Course in Programming (5 op)
+    - Datastructures and Algorithms (10 op)
+    - Introduction to Data Communication (5 op)
+    - Introduction to Databases (5 op)
+    - Intermediate Studies Project: Database Application (4 op)
+    - Introduction to AI (5 op)
+    - Full Stack Web Development (5 op)
+    - Software Production and Version Control (7 op)
+    - Software Development Methods (5 op)
+    - Models of Computation (5 op)
+
+    Minor: Mathematics
+
+
+# Education Template
+- layout: left
+  name: University of Oulu
+  dates: 8/2008 - 6/2013
+  qualification: Master of Business and Administration
+  quote: >
+  description: | 
+    Major: Marketing
+
+    Minors: Business law, accounting and a minor of studies abroad in Business and Administration (EM Strasbourg Business School, Ranska)
+
+    <a class="a.link" target="_blank" href="http://jultika.oulu.fi/files/nbnfioulu-201302281063.pdf">
+    Master's thesis: Effectiveness of Mobile In-Game Banner Advertising</a>
+
+# Education Template
+- layout: left
+  name: Oulun Lyseo Upper Secondary School 
+  dates: 8/2005 - 5/2008
+  qualification: undergraduate
+
+    

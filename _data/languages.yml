@@ -1,0 +1,38 @@
+# Skill template
+- layout: left
+  language: Finnish
+  stars: 
+    - star
+    - star
+    - star
+    - star
+    - star
+
+- layout: left
+  language: English
+  stars: 
+    - star
+    - star
+    - star
+    - star
+    - star
+
+- layout: left
+  language: Spanish
+  stars: 
+    - star
+    - star
+    - star
+  empty_stars:
+    - star
+    - star
+  
+- layout: left
+  language: Swedish
+  stars: 
+    - star
+    - star
+  empty_stars:
+    - star
+    - star
+    - star
