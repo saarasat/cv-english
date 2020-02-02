@@ -1,5 +1,5 @@
 
-CV: https://saarasat.github.io/cv/
+CV: https://saarasat.github.io/cv-english/
 
 Original template by: James Grant, @Sproogen, http://themes.jekyllrc.org/modern-resume/
 
