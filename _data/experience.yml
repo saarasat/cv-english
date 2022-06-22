@@ -1,4 +1,22 @@
 - layout: left
+  company: University of Helsinki, Toska-group
+  link: https://toska.dev/
+  job_title: Software developer
+  dates: 9/2020 - current date, Helsinki
+  description: | 
+    - Developing multiple educational administrative software for the use of students and faculty at the University of Helsinki
+    - Technologies in the projects include React.js, Node.js, PostgreSQL and Docker
+    
+- layout: left
+  company: Aalto University
+  link: https://www.aalto.fi/fi
+  job_title: Summer intern
+  dates: 6/2020 - 8/2020, Espoo
+  description: | 
+    - Developing front-end of A+, an e-learning system https://github.com/apluslms/a-plus
+    - Technologies used included: Python (with Django web framework)and Sass
+    
+- layout: left
   company: Alma Talent
   link: https://www.almatalent.fi/
   job_title: Product Manager
