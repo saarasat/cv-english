@@ -1,7 +1,27 @@
 # Education Template
 - layout: left
   name: University of Helsinki
-  dates: 8/2018 - 
+  dates: 7/2020 - 5/2022
+  qualification: Master of Science | Computer Science
+  description: | # this will include new lines to allow paragraphs
+    Master's programme in Computer Science. The programme provides a comprehensive background on computational and software engineering theory and concepts.
+    It also includes plenty of hands-on project work and exercies.
+    The most notable courses attended include: 
+
+    - Master's Thesis in Computer Science (30 ECTS)
+    - Internet Protocols (5 ECTS)
+    - Cloud and Edge Computing (5 ECTS)
+    - Big Data Platforms (5 ECTS)
+    - Software Testing (4 ECTS)
+    - Distributed Systems (5 ECTS)
+    - Networked Systems and Services (5 ECTS)
+    - Human Computer Interaction (5 ECTS)
+    - Introduction to Internet of Things (5 ECTS)
+
+# Education Template
+- layout: left
+  name: University of Helsinki
+  dates: 8/2018 - 7/2020
   qualification: Bachelor of Science | Computer Science
   description: | # this will include new lines to allow paragraphs
     Bachelor's programme in Computer Science. The programme provides a comprehensive background on computational theory and concepts.
